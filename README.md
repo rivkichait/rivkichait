@@ -7,18 +7,18 @@
 # Hi, I'm Rivki Chait 👋
 ### Full-Stack Developer
 
-Full-Stack Developer with a **B.Sc in Computer Science** and experience building real-world business applications.
+Full-Stack Developer with a **B.Sc in Computer Science**, focused on building real-world business applications and complete end-to-end systems.
 I design and develop complete systems – from database architecture and backend APIs to responsive user interfaces.
 
 ---
 
 ## What I Do
 
-* Build **end-to-end** web applications with real business workflows
-* Design scalable REST APIs and data models
-* Implement secure authentication and role-based access
-* Develop clean, maintainable **Angular** applications
-* Deliver practical solutions that solve real business needs
+🔹 Build **end-to-end** web applications with real business workflows  
+🔹 Design scalable REST APIs and data models  
+🔹 Implement secure authentication and role-based access  
+🔹 Develop clean, maintainable **Angular** applications  
+🔹 Deliver practical solutions that solve real business needs  
 
 ---
 
@@ -26,19 +26,20 @@ I design and develop complete systems – from database architecture and backend
 
 **Frontend:** Angular, TypeScript, HTML, CSS  
 **Backend:** Node.js, Express  
-**Databases:** MongoDB, MySQL  
-**Other:** REST APIs, JWT, Git, Agile
+**Databases:** MySQL, MongoDB  
+**Tools & Practices:** REST APIs, JWT Authentication, Git, Agile
 
 ---
 
-## Experience Highlights
+## Experience
 
 **Full-Stack Developer – Freelance (2025)**
+* Designed and developed a complete business management system for service requests and lead tracking 
+* Implemented authentication, authorization, and automated email workflows 
+* Built 10+ REST API endpoints and designed scalable database schemas 
+* Delivered a full system architecture from backend to UI 
 
-* Designed and developed a complete business management system for service requests and lead tracking
-* Implemented authentication, authorization, and automated email workflows
-* Built 10+ REST API endpoints and designed scalable database schemas
-* Delivered a full system architecture from backend to UI
+➡️ [View Project](https://github.com/rivkichait/work-orders-app)
 
 **Full-Stack Developer Intern (2024)**
 
@@ -55,9 +56,6 @@ My repositories demonstrate:
 * **End-to-end** full-stack development
 * Business logic and workflow automation
 * Real-world system architecture and API design
-
-Start with my main project:  
-➡️ [Business Management System](link-to-repo)
 
 ---
 
